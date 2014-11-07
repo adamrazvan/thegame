@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player.cs" Line="37" Column="4" />
+      <File FileName="Assets\Scripts\EntityManager.cs" Line="28" Column="1" />
+      <File FileName="Assets\Scripts\Entity.cs" Line="12" Column="3" />
+      <File FileName="Assets\Scripts\SelectButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Singleton.cs" Line="16" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="15" Column="16" />
+      <File FileName="Assets\Scripts\Chain.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Ball.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Editor\PlayerEditor.cs" Line="15" Column="3" />
+      <File FileName="Assets\Scripts\MessageManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
